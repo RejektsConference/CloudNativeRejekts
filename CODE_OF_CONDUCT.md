@@ -1,6 +1,6 @@
 Cloud Native Rejekts is the b-side conference kicking off the Kubernetes community’s biggest week. It sets the stage for some of the wonderful, but rejected, presentations submitted to KubeCon.
 
-We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events.
+We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference, at all related conference events and when taking part in any of the conference discourse online.
 
 To make clear what is expected, all delegates/attendees, speakers, organizers and volunteers at any Cloud Native Rejekts event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
@@ -12,7 +12,7 @@ All communication should be appropriate for a professional audience including pe
 
 Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not welcome or appropriate at any Cloud Native Rejekts event.
 
-Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the Cloud Native Rejekts organizing team.
+Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the Cloud Native Rejekts organizing team or steering committee.
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, persistent following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
@@ -20,7 +20,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. If you think your conversation is making another community member uncomfortable, try to make amends and move forward.
 
-If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender, expulsion from the conference with no refund, or legal action.
+If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender, expulsion from the conference with no refund, banning from future events, or legal action.
 
 # Contact Information
 
@@ -29,7 +29,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 If the matter is especially urgent, please contact any of these individuals:
 
 - Laura Santamaria, laura@nimbinatus.com
-- Marcus Noble, marcusnoble@monzo.com
+- Marcus Noble, rejekts@marcusnoble.co.uk
 - Lexi Nadolski, lexinadolski.work@gmail.com
 
 Conference staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
@@ -51,10 +51,11 @@ The important information consists of:
 - Identifying information (name/badge number) of the participant doing the harassing
 - The behavior that was in violation
 - The approximate time of the behavior
+- The location the incident took place
 - The circumstances surrounding the incident
 - Other people involved in the incident
 
-The staff is well informed on how to deal with the incident and how to further proceed with the situation.
+The staff are well informed on how to deal with the incident and how to further proceed with the situation.
 
 If everyone is presently physically safe, involve law enforcement or security only at a victim’s request. If you do feel your safety in jeopardy please do not hesitate to contact local law enforcement by dialing 112. If you do not have a cell phone, you can simply ask a staff member.
 
@@ -63,7 +64,7 @@ If everyone is presently physically safe, involve law enforcement or security on
 Reports should be made to coc@rejekts.io, or one of the following contacts:
 
 - Laura Santamaria, laura@nimbinatus.com
-- Marcus Noble, marcusnoble@monzo.com
+- Marcus Noble, rejekts@marcusnoble.co.uk
 - Lexi Nadolski, lexinadolski.work@gmail.com
 
 ## Staff Procedure for Incident Handling
@@ -78,6 +79,7 @@ Try to get as much detail of the incident in written form from the reporter. If 
 - The behavior that was in violation
 - The approximate time of the behavior
 - The approximate time the report was made
+- The location the incident took place
 - The circumstances surrounding the incident
 - Other people involved in the incident
 
