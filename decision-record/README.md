@@ -9,7 +9,7 @@ These decision records are loosely based on Architecture Decision Record (ADR)s,
 Each file in this directory represents a decision record. Each file should contain the following information:
 
 - **Title**: A brief title.
-- **Status**: The status of the decision record, such as "Approved", "Pending", or "Superseded".
+- **Status**: The status of the decision record, such as "Approved", "Pending", "Rejected", "Deprecated", or "Superseded".
 - **Description**: A detailed description of the decision, including any relevant context and reasoning behind it.
 - **Resources** (Optional): Any resources used in the decision-making process that may add more context for future readers.
 
