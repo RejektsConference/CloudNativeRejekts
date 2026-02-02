@@ -18,7 +18,7 @@ Each file in this directory represents a decision record. Each file should conta
 - **Resources** (Optional): Any resources used in the decision-making process that may add more context for future readers.
 ```
 
-## Example
+**Status**: The status of the decision record, such as "Approved", "Pending", "Rejected", "Deprecated", or "Superseded".
 
 > # Using Decision Records
 >
