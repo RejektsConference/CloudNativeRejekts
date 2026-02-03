@@ -39,7 +39,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add README.md
+          git add decision-record/README.md
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
